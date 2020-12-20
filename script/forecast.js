@@ -16,18 +16,18 @@ $(document).ready(function() {
         // crossDomain: true,
         // @data returning JSON data
         success: function(data) {
-            var reading_twenty_four =
-            data.items[0].readings.regions;
+            var periods_twenty_four =
+            data.items[3].periods.regions;
             var content = "";
             
-            $.each(reading_twenty_four, function(key, obj) {
+            $.each(periods_twenty_four, function(key, obj) {
             content += key + ": " + obj + "<br/>";
             });
             
             $("#regions").html(content);
             
             // Store info as local storage
-            localStorage.setItem("twenty_four_hourly",JSON.stringify(reading_twenty_four));
+            localStorage.setItem("twenty_four_hourly",JSON.stringify(periods_twenty_four));
         }
     })
 })
