@@ -2,9 +2,64 @@
 .header {
     padding: 100px;
     text-align: center;
-    background-image: url(images/school.jpg);
+    background-image: url(images/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
     width: auto;
     }
+
+/* Flexboxes and media queries */
+/* Small screen */
+@media only screen and (max-width:600px){
+    ul {list-style: none;}
+  
+    .flex-container {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      background-image: url(/images/school.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  
+    .flex-container > li {
+      background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+      width: auto;
+      height: auto;
+      margin: 10px;
+      padding: 10px;
+      text-align: center;
+      color: white;
+      border-radius: 50px;
+    }
+  }
+  
+  /* Big screen */
+  @media only screen and (min-width:601px){
+    ul {list-style: none;}
+  
+    .flex-container {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      background-image: url(/images/school.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  
+    .flex-container > li {
+      background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+      width: 800px;
+      height: auto;
+      margin: 10px;
+      padding: 10px;
+      text-align: center;
+      color: white;
+      border-radius: 50px;
+    }
+  }
