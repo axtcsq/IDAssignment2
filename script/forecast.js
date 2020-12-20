@@ -9,26 +9,22 @@ $(document).ready(function() {
         type: "GET",
         dataType: 'json',
         contentType: "text/plain",
-        url: "https://api.data.gov.sg/v1/environment/psi",
+        url: "https://api.data.gov.sg/v1/environment/24-hour-weather-forecast",
         headers: {},
         data: {"date_time": "2016-06-27T23:00:00", "date":"2016-06-27"},
 
         // crossDomain: true,
         // @data returning JSON data
         success: function(data) {
-            // console.log(data);
-            // console.log("API status: " + data.api_info.status);
             var reading_twenty_four =
-            data.items[0].readings.psi_twenty_four_hourly;
-            // console.log(reading_twenty_four);
+            data.items[0].readings.regions;
             var content = "";
             
             $.each(reading_twenty_four, function(key, obj) {
-            // console.log(key + ": " + obj);
             content += key + ": " + obj + "<br/>";
             });
             
-            $("#psi-twenty-four").html(content);
+            $("#regions").html(content);
             
             // Store info as local storage
             localStorage.setItem("three_hourly",JSON.stringify(reading_twenty_four));
