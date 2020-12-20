@@ -50,7 +50,42 @@
 
     <!-- Alert -->
     <div class="alert alert-warning alert-dismissible fade show" role="alert">
-        <strong>Welcome!</strong> Get started by clicking on the navigation bar
+        <strong>👋 Welcome!</strong>
+        
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            Click me!
+        </button>
+        
+            <!-- Modal box -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        
+                        <!-- Title -->
+                        <div class="modal-header">
+                            <h4 class="modal-title" id="exampleModalLabel" style="color:black;">🤔 What can I do with this website?</h4>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        
+                        <!-- Content -->
+                        <div class="modal-body" style="color:black;">
+                            <h5>ℹ On this website, you can:</h5>
+                            <ul>
+                                <li>🗺 Use Google Map</li>
+                                <li>📌 Create a list</li>
+                                <li>🌦 Check the weather</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Understood button -->
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary">Understood</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
       </div>
 
@@ -66,11 +101,7 @@
             <img src="images/info.png" alt="Information icon" width="100" height="100">
             
             <h2>About us</h2>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-                veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
-                commodo consequat.</p>
+            <p>At Edu.sg, we aim to offer users...</p>
         </li>
     </ul>
 
