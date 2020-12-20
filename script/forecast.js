@@ -27,7 +27,7 @@ $(document).ready(function() {
             $("#regions").html(content);
             
             // Store info as local storage
-            localStorage.setItem("three_hourly",JSON.stringify(reading_twenty_four));
+            localStorage.setItem("twenty_four_hourly",JSON.stringify(reading_twenty_four));
         }
     })
 })
