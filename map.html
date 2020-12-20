@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Home</title>
+    <title>Map</title>
     
     <!--Linking CSS-->
         <!-- Bootstrap CSS -->
@@ -12,6 +12,16 @@
         rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
         crossorigin="anonymous">
 
+        <!-- External CSS & Script -->
+            <!-- Javascript(Google Map) -->
+            <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYOpyz04pTnIXsUhLNEeHZkn9acLkcQWc&callback=initMap&libraries=&v=weekly"
+            defer></script>
+            <script src="script/map.js"></script>
+            
+            <!-- CSS(Google Map) -->
+            <link href="css/map.css" rel="stylesheet" type="text/css">
+            
         <!-- My CSS -->
         <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
@@ -48,25 +58,7 @@
         </div>
       </nav>
 
-    <!-- Header -->
-    <div class="header">
-        <img src="images/stationery.png" alt="Stationery" width="150" height="150">
-        <h1 style="text-align: center;">Edu.sg</h1> 
-    </div>
-            
-    <!-- Flexboxes -->
-    <ul class="flex-container">
-        <li class="flex-item">
-            <img src="images/info.png" alt="Information icon" width="100" height="100">
-            
-            <h2>About us</h2>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-                veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
-                commodo consequat.</p>
-        </li>
-    </ul>
+      <div id="map"></div>
 
     <!-- Scripts -->
         <!-- External Scripts -->
