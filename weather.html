@@ -55,7 +55,7 @@
 
     <!-- Alert -->
     <div class="alert alert-warning alert-dismissible fade show" role="alert">
-        <strong>You have chosen Weather!</strong>
+        <strong>You have chosen 🌦 Weather!</strong> Here, you can check the PSI values.
            
         <!-- Alert close button -->
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
@@ -64,18 +64,50 @@
     <!-- Header -->
     <div class="header" style="background-image: url(/images/weather2.jpg);">
         <img src="images/weather.png" alt="Weather" width="150" height="150">
-        <h1 style="text-align: center;">Weather</h1>
+        <h1 style="text-align: center;">Weather (PSI)</h1>
     </div>
  
     <table class="table table-dark table-hover">
         <tr>
             <th>PSI 24h</th>
+            <th>PSI Value</th>
+            <th>Air Quality Descriptor</th>
         </tr>
 
         <tr>
             <td id="psi-twenty-four"></td>
-            <td id="regions"></td>
+            <td style="color: lightgreen;">0 - 50</td>
+            <td style="color: lightgreen;">Good</td>
         </tr>
+
+        <tr>
+            <td></td>
+            <td style="color: lightblue;">51 - 100</td>
+            <td style="color: lightblue;">Moderate</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td style="color: lightyellow;">101 - 200</td>
+            <td style="color: lightyellow;">Unhealthy</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td style="color: orange;">201 - 300</td>
+            <td style="color: orange;">Very unhealthy</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td style="color: lightcoral;">Above 300</td>
+            <td style="color: lightcoral;">Hazardous</td>
+        </tr>
+
+        <tr>
+            <td colspan="3">Last updated on 20 Dec 2020</td>
+        </tr>
+
     </table>
 
 
