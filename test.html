@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Home</title>
+    <title>Test</title>
     
     <!--Linking CSS-->
         <!-- Bootstrap CSS -->
@@ -46,33 +46,31 @@
                 </ul>
             </div>
         </div>
-    </nav>
+      </nav>
 
-    <!-- Alert -->
-    <div class="alert alert-warning alert-dismissible fade show" role="alert">
-        <strong>Welcome!</strong> Get started by clicking on the navigation bar
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-
-    <!-- Header -->
-    <div class="header">
-        <img src="images/stationery.png" alt="Stationery" width="150" height="150">
-        <h1 style="text-align: center;">Edu.sg</h1>
+      <div class="modal-body">
+        <p>Test</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
     </div>
-            
-    <!-- Flexboxes -->
-    <ul class="flex-container">
-        <li class="flex-item">
-            <img src="images/info.png" alt="Information icon" width="100" height="100">
-            
-            <h2>About us</h2>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-                veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
-                commodo consequat.</p>
-        </li>
-    </ul>
+  </div>
+</div>
 
     <!-- Scripts -->
         <!-- External Scripts -->
