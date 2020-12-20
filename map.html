@@ -12,15 +12,13 @@
         rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
         crossorigin="anonymous">
 
-        <!-- External CSS & Script -->
-            <!-- Javascript(Google Map) -->
-            <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYOpyz04pTnIXsUhLNEeHZkn9acLkcQWc&callback=initMap&libraries=&v=weekly"
-            defer></script>
-            <script src="script/map.js"></script>
+        <!-- Javascript (Google Map) -->
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYOpyz04pTnIXsUhLNEeHZkn9acLkcQWc&callback=initMap&libraries=&v=weekly" defer></script>
+        <script src="script/map.js"></script>
             
-            <!-- CSS(Google Map) -->
-            <link href="css/map.css" rel="stylesheet" type="text/css">
+        <!-- CSS (Google Map) -->
+        <link href="css/map.css" rel="stylesheet" type="text/css">
             
         <!-- My CSS -->
         <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -58,6 +56,13 @@
         </div>
       </nav>
 
+      <!-- Alert -->
+      <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>You have chosen Google Map!</strong> Where do you want to explore today?
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+      
+      <!-- Calls Google Map -->
       <div id="map"></div>
 
     <!-- Scripts -->
