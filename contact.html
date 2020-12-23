@@ -71,7 +71,54 @@
         <img src="images/contact.png" alt="Contact" width="150" height="150">
         <h1 style="text-align: center;">Contact</h1>
     </div>
-            
+
+    <!--Form-->
+    <ul class="flex-container">
+        <li class="flex-item">
+            <form>
+                <!-- Header text -->
+                <h2>Form</h2>
+                
+                 <!-- Name -->
+                 <div class="mb-3">
+                    <label for="exampleInputName" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="exampleInputName" placeholder="Enter your name here" required>
+                </div>
+                
+                <!-- Email address -->
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address here" required>
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+
+                <!-- Products -->
+                <select class="form-select" multiple aria-label="multiple select example" required>
+                    <option selected>Select product of concern ...</option>
+                    <option value="1">🗺 Google Map</option>
+                    <option value="2">🌦 Weather</option>
+                    <option value="3">😓 Undefined</option>
+                </select>
+                <div id="fileHelp" class="form-text" style="text-align: left;">Select one or more product.</div>
+
+                <!-- Message -->
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter your message here" required></textarea>
+                </div>
+
+                <!-- File attachments -->
+                <div class="mb-3">
+                    <label for="formFileMultiple" class="form-label">Attachments</label>
+                    <input class="form-control" type="file" id="formFileMultiple" multiple>
+                    <div id="fileHelp" class="form-text">This is optional.</div>
+                </div>
+
+                <!-- Submit button -->
+                <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+        </li>
+    </ul>
 
     <!-- Scripts -->
         <!-- External Scripts -->

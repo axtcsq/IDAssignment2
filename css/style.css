@@ -14,6 +14,10 @@ body {
     width: auto;
     }
 
+.mb-3 {
+  text-align: left;
+}
+
 /* Flexboxes and media queries */
 /* Small screen */
 @media only screen and (max-width:600px){
