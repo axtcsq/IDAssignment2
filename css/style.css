@@ -14,6 +14,7 @@ body {
     width: auto;
     }
 
+/* mb-3 class */
 .mb-3 {
   text-align: left;
 }
@@ -36,7 +37,7 @@ body {
   
     .flex-container > li {
       background: linear-gradient(to top left, #28313b 0%, #485461 100%);
-      width: auto;
+      width: 300px;
       height: auto;
       margin: 10px;
       padding: 10px;
