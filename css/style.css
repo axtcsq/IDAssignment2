@@ -21,6 +21,13 @@ body {
   background-color: #212529;
 }
 
+/* Card-card body */
+.card, .card-body
+{
+  color: white;
+  background-color: #212529;
+}
+
 /* mb-3 class */
 .mb-3 {
   text-align: left;
