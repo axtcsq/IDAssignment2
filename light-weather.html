@@ -21,11 +21,11 @@
 
 <body>
     <!-- Navigation Bar -->
-    <nav class="navbar sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar sticky-top navbar navbar-expand-lg navbar-light" style="background-color: #e9eff3;">
         
         <!-- Main text and image -->
         <div class="container-fluid">
-            <a class="navbar-brand" href="dark-home.html">
+            <a class="navbar-brand" href="light-home.html">
                 <img src="images/logo.png" class="rounded mx-auto d-block" alt="Logo" width="30" height="30" 
                 class="d-inline-block align-top"><h6>OneStop.sg</h6></a>
             
@@ -39,26 +39,26 @@
                 <ul class="navbar-nav">
                     <!-- Home -->
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="dark-home.html">Home</a>
+                        <a class="nav-link" aria-current="page" href="light-home.html">Home</a>
                     </li>
 
                     <!-- Maps -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Maps</a>
-                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
-                            <li><a class="dropdown-item" href="dark-googlemaps.html">Google Maps</a></li>
-                            <li><a class="dropdown-item" href="dark-mrt.html">MRT Map</a></li>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                            <li><a class="dropdown-item" href="light-googlemaps.html">Google Maps</a></li>
+                            <li><a class="dropdown-item" href="light-mrt.html">MRT Map</a></li>
                         </ul>
                     </li>
 
                     <!-- Weather -->
                     <li class="nav-item">
-                        <a class="nav-link active" href="dark-weather.html">Weather</a>
+                        <a class="nav-link active" href="light-weather.html">Weather</a>
                     </li>
 
                     <!-- Contact -->
                     <li class="nav-item">
-                        <a class="nav-link" href="dark-contact.html">Contact</a>
+                        <a class="nav-link" href="light-contact.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -66,7 +66,7 @@
     </nav>
 
     <!-- Alert -->
-    <div class="alert alert-dark alert-dismissible fade show" role="alert">
+    <div class="alert alert-secondary alert-dismissible fade show" role="alert">
         <strong>You have chosen 🌦 Weather!</strong> You can check the forecast & PSI here.
            
         <!-- Alert close button -->
@@ -79,7 +79,7 @@
         <h1>Weather</h1>
     </div>
  
-    <table class="table table-dark table-hover">
+    <table class="table table-secondary table-hover">
         <tr>
             <th>Forecast</th>
             <th>PSI 24h</th>
@@ -90,36 +90,36 @@
         <tr>
             <td id="regions"></td>
             <td id="psi-twenty-four"></td>
-            <td style="color: lightgreen;">0 - 50</td>
-            <td style="color: lightgreen;">Good</td>
+            <td style="color: green;">0 - 50</td>
+            <td style="color: green;">Good</td>
         </tr>
 
         <tr>
             <td></td>
             <td></td>
-            <td style="color: lightblue;">51 - 100</td>
-            <td style="color: lightblue;">Moderate</td>
+            <td style="color: royalblue;">51 - 100</td>
+            <td style="color: royalblue;">Moderate</td>
         </tr>
 
         <tr>
             <td></td>
             <td></td>
-            <td style="color: yellow;">101 - 200</td>
-            <td style="color: yellow;">Unhealthy</td>
+            <td style="color: rgb(196, 185, 35);">101 - 200</td>
+            <td style="color: rgb(196, 185, 35);">Unhealthy</td>
         </tr>
 
         <tr>
             <td></td>
             <td></td>
-            <td style="color: orange;">201 - 300</td>
-            <td style="color: orange;">Very unhealthy</td>
+            <td style="color: darkorange;">201 - 300</td>
+            <td style="color: darkorange;">Very unhealthy</td>
         </tr>
 
         <tr>
             <td></td>
             <td></td>
-            <td style="color: lightcoral;">Above 300</td>
-            <td style="color: lightcoral;">Hazardous</td>
+            <td style="color: red;">Above 300</td>
+            <td style="color: red;">Hazardous</td>
         </tr>
 
         <tr>
