@@ -2,7 +2,7 @@ $(document).ready(function() {
     // @params settings
     var params = {
         // YYYY-MM-DD[T]HH:mm:ss (SGT)
-        "date_time": "2020-12-26T07:00:00", "date": "2020-12-26" // YYYY-MM-DD
+        "date_time": "2020-12-26T09:00:00", "date": "2020-12-26" // YYYY-MM-DD
     };
     
     $.ajax({
@@ -11,7 +11,7 @@ $(document).ready(function() {
         contentType: "text/plain",
         url: "https://api.data.gov.sg/v1/environment/24-hour-weather-forecast",
         headers: {},
-        data: {"date_time": "2020-12-26T07:00:00", "date":"2020-12-26"},
+        data: {"date_time": "2020-12-26T09:00:00", "date":"2020-12-26"},
 
         // crossDomain: true,
         // @data returning JSON data
