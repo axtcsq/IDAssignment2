@@ -4,10 +4,10 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Home</title>
+    <title>Dark or light mode?</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="images/logo.png"/>
+    <link rel="icon" type="image/png" href="images/daynight.png"/>
     
     <!--Linking CSS-->
         <!-- Bootstrap CSS -->
@@ -27,7 +27,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="index.html">
                 <img src="images/logo.png" class="rounded mx-auto d-block" alt="Logo" width="30" height="30" 
-                class="d-inline-block align-top"><h6>OneStop.sg</h6></a>
+                class="d-inline-block align-top" title="Choose your colour scheme"><h6>OneStop.sg</h6></a>
             
             <!-- Navbar button -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,26 +39,26 @@
                 <ul class="navbar-nav">
                     <!-- Home -->
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link disabled" aria-current="page" href="#">Home</a>
                     </li>
 
                     <!-- Maps -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Maps</a>
+                        <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Maps</a>
                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
-                            <li><a class="dropdown-item" href="googlemaps.html">Google Maps</a></li>
-                            <li><a class="dropdown-item" href="mrt.html">MRT Map</a></li>
+                            <li><a class="dropdown-item" href="#">Google Maps</a></li>
+                            <li><a class="dropdown-item" href="#">MRT Map</a></li>
                         </ul>
                     </li>
 
                     <!-- Weather -->
                     <li class="nav-item">
-                        <a class="nav-link" href="weather.html">Weather</a>
+                        <a class="nav-link disabled" href="#">Weather</a>
                     </li>
 
                     <!-- Contact -->
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link disabled" href="#">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -66,83 +66,78 @@
     </nav>
 
     <!-- Alert -->
-    <div class="alert alert-dark alert-dismissible fade show" role="alert">
-        <strong>👋 Welcome!</strong>
-        
-        <!-- Button trigger modal -->
-        <button type="button" class="btn btn-danger btn-sm rounded-pill" data-bs-toggle="modal" data-bs-target="#exampleModal">
-            Click me!
-        </button>
-        
-            <!-- Modal box -->
-            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        
-                        <!-- Title -->
-                        <div class="modal-header">
-                            <h4 class="modal-title" id="exampleModalLabel">🤔 What can I do with this website?</h4>
-                            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        
-                        <!-- Content -->
-                        <div class="modal-body">
-                            <h5>ℹ On this website, you can:</h5>
-                            <ul>
-                                <li>🗺 Explore Google & MRT Maps <span class="badge rounded-pill bg-danger">Top feature</span></li>
-                                <li>🌦 Check the weather</li>
-                                <li>📞 Contact me</li>
-                            </ul>
-                        </div>
-                        
-                        <!-- Close button -->
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>⚠ Choose your preferred colour scheme first. Until then, all links are disabled.</strong>
+
         <!-- Alert close button -->
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>
 
     <!-- Header -->
-    <div class="header">
-        <img src="images/logo.png" class="rounded mx-auto d-block" alt="Logo" width="150" height="150">
-        <h1>OneStop.sg</h1>
-    </div>
+    <div class="header" style="background-image: url(/images/background2.jpg);">
+        <img src="images/daynight.png" class="rounded mx-auto d-block" alt="Logo" width="150" height="150">
+        <h1>Which colour scheme?</h1>
+    
+        <br>
             
-    <!-- Flexboxes -->
-    <ul class="flex-container">
-        <li class="flex-item">
-            <img src="images/info.png" class="rounded mx-auto d-block" alt="Information icon" width="100" height="100">
-            
-            <h2>About us</h2>
-            <p>At OneStop.sg, we aim to offer users an all in one experience. This website
-                was created such that we can eliminate how troublesome it is for one to visit different websites.
-                Having an all in one website saves you both time & convenience, thus allowing one to make time for other things.
-                Similar to reading the news while drinking coffee in the morning, this website can be used similarly.</p>
+        <!-- Cards -->
+        <div class="row justify-content-evenly">
+            <div class="col-sm-6">
+            <div class="card text-center">
 
-            <br>
-            
-            <p>
-                <button class="btn btn-warning rounded-pill" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" title="Click me">
-                    📝 A message from the developer
-                </button>
-            </p>
-              
-            <div class="collapse" id="collapseExample">
-                <div class="card card-body rounded">
-                    <p>As the website is still in its early phase, there will only be a few but essential shortcut pages.
-                        Rest assured, we will be adding more shortcut pages in the near future. 
-                        While we work towards that goal, we hope you would enjoy our current implementation!</p>
+                <!-- Carousel/Slides -->
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <ol class="carousel-indicators">
+                    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
+                    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
+                    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
+                    </ol>
+                    
+                    <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="/images/dark.png" class="d-block w-100" alt="...">
+                    </div>
+                    
+                    <div class="carousel-item">
+                        <img src="/images/dark2.png" class="d-block w-100" alt="...">
+                    </div>
+                    
+                    <div class="carousel-item">
+                        <img src="/images/dark3.png" class="d-block w-100" alt="...">
+                    </div>
+                    </div>
+                    
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                    </a>
+                    
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                    </a>
+                </div>
+
+                <div class="card-body">
+                <h5 class="card-title">Dark mode</h5>
+                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                <a href="dark-home.html" class="btn btn-primary">Click here</a>
                 </div>
             </div>
-              
-            <br>
-        </li>
-    </ul>
+            </div>
+
+            <div class="col-sm-6">
+            <div class="card text-center">
+                <img src="/images/light.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">Light mode</h5>
+                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                <a href="#" class="btn btn-primary disabled">Work in progress</a>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Scripts -->
         <!-- External Scripts -->
