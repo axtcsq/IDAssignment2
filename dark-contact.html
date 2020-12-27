@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Contact</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/contact.png"/>
+    
+    <!--Linking CSS-->
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" 
+        rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
+        crossorigin="anonymous">
+
+        <!-- My CSS -->
+        <link href="css/dark-style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar sticky-top navbar navbar-expand-lg navbar-dark bg-dark">
+        
+        <!-- Main text and image -->
+        <div class="container-fluid">
+            <a class="navbar-brand" href="dark-home.html">
+                <img src="images/logo.png" class="rounded mx-auto d-block" alt="Logo" width="30" height="30" 
+                class="d-inline-block align-top"><h6>OneStop.sg</h6></a>
+            
+            <!-- Navbar button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <!-- Nav bar collapse -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <!-- Home -->
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="dark-home.html">Home</a>
+                    </li>
+
+                    <!-- Maps -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Maps</a>
+                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                            <li><a class="dropdown-item" href="dark-googlemaps.html">Google Maps</a></li>
+                            <li><a class="dropdown-item" href="dark-mrt.html">MRT Map</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Weather -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="dark-weather.html">Weather</a>
+                    </li>
+
+                    <!-- Contact -->
+                    <li class="nav-item">
+                        <a class="nav-link active" href="dark-contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Alert -->
+    <div class="alert alert-dark alert-dismissible fade show" role="alert">
+        <strong>You have chosen 📞 Contact!</strong> What do you want to contact me about?
+
+        <!-- Alert close button -->
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+    <!-- Header -->
+    <div class="header" style="background-image: url(/images/contact2.jpg);">
+        <img src="images/contact.png" class="rounded mx-auto d-block" alt="Contact" width="150" height="150">
+        <h1>Contact</h1>
+    </div>
+
+    <!-- Flexboxes -->
+    <ul class="flex-container">
+
+        <!-- Phone -->
+        <li class="flex-item">
+            <h2>Phone</h2>
+            <a href="tel:+6583768698" title="Click here to call me" target="_blank">
+            <img src="images/phone.png" class="rounded mx-auto d-block" alt="A picture of a phone icon" width="100" height="100"></a>
+        </li>
+        
+        <!-- Email -->
+        <li class="flex-item">
+            <h2>Email</h2>
+            <a href="mailto:s10194188@connect.np.edu.sg" title="Click here to email me" target="_blank">
+            <img src="images/email.png" class="rounded mx-auto d-block" alt="A picture of an email icon" width="125" height="125"></a>
+        </li>
+        
+        <!-- Form -->
+        <li class="flex-item">
+            <form>
+                <!-- Header text -->
+                <h2>Form</h2>
+                
+                <!-- Name -->
+                <div style="text-align: left;">
+                    <h6>Name</h6>
+                    <div class="input-group">
+                        <span class="input-group-text">First & last name</span>
+                        <input type="text" aria-label="First name" class="form-control" placeholder="First name" required>
+                        <input type="text" aria-label="Last name" class="form-control" placeholder="Last name" required>
+                    </div>
+                </div>
+
+                <br>
+                
+                <!-- Email address -->
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address here" required>
+                </div>
+
+                <!-- Category -->   
+                <div style="text-align: left;">
+                    
+                    <h6>Category</h6>
+                        
+                        <!-- Option 1: Bugs & Errors -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">Bugs & Errors</label>
+                        </div>
+                        
+                        <!-- Option 2: Concerns -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+                            <label class="form-check-label" for="flexRadioDefault2">Concerns</label>
+                        </div>
+
+                        <!-- Option 3: Others -->
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
+                            <label class="form-check-label" for="flexRadioDefault3">Others</label>
+                        </div>   
+                </div>
+                
+                <br>
+
+                <!-- Products -->
+                <h6 style="text-align: left;">Product</h6>
+                <select class="form-select" multiple aria-label="multiple select example" required>
+                    <option selected>Select ...</option>
+                    <option value="1">🗺 Google & MRT Maps</option>
+                    <option value="2">🌦 Weather</option>
+                    <option value="3">ℹ Others</option>
+                </select>
+
+                <div id="productHelp" class="form-text" style="text-align: left;">Select one or more product.</div>
+
+                <!-- Message -->
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter your message here" required></textarea>
+                </div>
+
+                <!-- File attachments -->
+                <div class="mb-3">
+                    <label for="formFileMultiple" class="form-label">Attachments</label>
+                    <input class="form-control" type="file" id="formFileMultiple" multiple>
+                    <div id="fileHelp" class="form-text">This is optional.</div>
+                </div>
+
+                <!-- Submit button -->
+                <button type="submit" class="btn btn-secondary rounded-pill">Submit</button>
+            </form>
+        </li>
+    </ul>
+
+    <!-- Scripts -->
+        <!-- External Scripts -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+</body>
+</html>
