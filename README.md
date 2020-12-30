@@ -14,6 +14,8 @@ Personally as a user, I would like to have the information I need consolidated i
 Fitting with current trends and standard, this website offers two colour schemes for users to choose from. Light mode mostly contains light-coloured elements which are ideal for use in bright environment. While dark mode mostly contains dark-coloured element which are ideal and recommended for use in dark environment.
 ### Uniformity and Simplicity
 As you navigate through the different pages, you would notice that there is strong uniformity in its design language and layout. Thinking from the perspective of an average user, it would be easier and more comfortable to navigate since all pages shares most of the same layout. Doing so also helps to cut down on development time, as I could simply reuse the shell and modify accordingly to the page's requirements.
+### Pictures
+Multiple pictures have also been used to help the website look more lively and aesthetically pleasing. A website with good aesthetics would convey a message to users that the developer has put in the effort to care for minor details during the development phase.
 ### One cancelled idea
 One idea that was struck off was the ability for users to input their to-do-list into a list that would have been displayed in a table format. It was struck off as having too many pages seemed too clustered and would certainly prolong the development time as well.
 ### Wireframes
