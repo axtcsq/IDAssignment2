@@ -18,7 +18,17 @@ As you navigate through the different pages, you would notice that there is stro
 Multiple pictures have also been used to help the website look more lively and aesthetically pleasing. A website with good aesthetics would convey a message to users that the developer has put in the effort to care for minor details during the development phase.
 ### One cancelled idea
 One idea that was struck off was the ability for users to input their to-do-list into a list that would have been displayed in a table format. It was struck off as having too many pages seemed too clustered and would certainly prolong the development time as well.
-### Wireframes
+### Wireframes (Adobe XD)
+Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
+
+Files:
+https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/EoPM_nyHpVBBuejccYE0zh8Bci5yJmzZnnhhk1SWHC2Baw?e=NFcFhc
+
+Desktop wireframe (Share URL):
+https://xd.adobe.com/view/b778caf1-e360-4708-84a4-6d91350ca7e9-e22b/?fullscreen&hints=off
+
+Mobile wireframe (Share URL):
+https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
 
 ### Screenshots of the finished project
 ## Features
