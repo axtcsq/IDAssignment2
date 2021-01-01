@@ -56,7 +56,8 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
 ## Testing
 * All pages (Common elements)
-  * Text
+  * Try to test if navigation bar resizes accordingly to different screen sizes
+  * Try to test if all images loads, if it fails verify that alt text appears as a failsafe method
 * Index / Colour Scheme page
   * Text
 * Home page
