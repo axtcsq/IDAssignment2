@@ -58,20 +58,39 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * All pages (Common elements)
   * Try to test if navigation bar resizes accordingly to different screen sizes
   * Try to test if all images loads, if it fails verify that alt text appears as a failsafe method
-  * Try to test if all text are properly displayed, then verify that it does.
+  * Try to test if all text are properly displayed, then verify that it does
   * Try to test if all links are linked correctly and working, then verify that it is successful
   * Try to test if all external CSS referenced have all loaded correct, then verify that it succeeds
+  * Verify that all favicons for different pages are displayed
+  * Verify that there is an "active" visual display to indicate the current page the user is browsing at
+  * Bootstrap
+    * Alert function
+      * Verify that it shows up
+      * Verify that it is dismissible or closable
+    * Verify that all button functions works
 * Index / Colour Scheme page
   * Go to the "index" or "Colour Scheme" page
+  * Verify that user should only be able to click on light and dark mode links, all other links should be disabled
+  * Carousel slides
+    * Try to test if it rotates on its own
+    * Try to test if it's next and previous button works
 * Home page
   * Go to the "Home" page
   * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
+  * Try to test if pressing the yellow button, a hidden message would appear
+  * Try to test if pressing the red "click me" button in alert, a modal box would appear
+  * Verify that user would be able to close the modal box once it is opened
 * Google Maps page
   * Go to the "Google Maps" page
+  * Verify that Google Maps API loads and displays correctly
+  * Try to test if it is interactive
+  * Try to test if streetview, satellite, terrain, zoom, movement, fullscreen function works
+  * Verify that back button works after viewing in streetview
 * MRT Map page
   * Go to the "MRT Map" page
 * Weather page
   * Go to the "Weather" page
+  * Verify that weather forecast and PSI APIs loads and displays correctly
 * Contact page
   * Go to the "Contact" page
   * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
