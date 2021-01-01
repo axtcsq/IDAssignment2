@@ -104,6 +104,8 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
   * Try to test if user is able to input text in textbox, select radio buttons, select from multiple select, choose a file, then verify that it succeeds
   * Verify that form validations are working
 ### Different Browsers and Screen Sizes
+* When displaying the website on different browsers, all seems to work well
+* When displaying the website on different screen sizes, all seems to work well till the screen size is at iPhone X and below. More will be shared under bugs section
 ### Bugs and Problems
 ## Credits
 ### Content
