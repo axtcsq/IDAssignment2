@@ -57,11 +57,10 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   * This project requires and uses JavaScript in order for APIs to work.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-  * This project uses Bootstrap to cut down on development time and to improve the aesthetics of the website.
+  * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
 ## Testing
 ## Credits
 ### Content
 (External source code)
-
 ### Media
 ### Acknowledgements
