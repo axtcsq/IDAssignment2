@@ -55,6 +55,18 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
 ## Testing
+* Index / Colour Scheme page
+  * Text
+* Home page
+  * Text
+* Google Maps page
+  * Text
+* MRT Map page
+  * Text
+* Weather page
+  * Text
+* Contact page
+  * Text
 ## Credits
 ### Content
 (External source code)
