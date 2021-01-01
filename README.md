@@ -42,12 +42,8 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
   * PSI API - Allows users to check the PSI values
 ### Features Left to Implement
 * Search bar to Google Maps - Allows users to search for their desired locations
-* Colour Schemes
-  * Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
-  * Dynamic colour schemes that changes based on the time - Gives users a refreshed experience
-  * More colour schemes - Gives more customizability to users
+* Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
 * More APIs - Makes the website more functional and inclusive
-* Frequently Asked Questions (FAQ) page - Addresses commonly asked questions by users
 * Animated visuals and elements - Helps to bring life to the website
 ## Technologies Used
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
