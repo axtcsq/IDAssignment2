@@ -61,7 +61,7 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * Index / Colour Scheme page
   * Text
 * Home page
-  * Text
+  * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
 * Google Maps page
   * Text
 * MRT Map page
@@ -69,7 +69,7 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * Weather page
   * Text
 * Contact page
-  * Text
+  * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
 ### Different Browsers and Screen Sizes
 ### Bugs and Problems
 ## Credits
