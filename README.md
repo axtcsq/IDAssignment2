@@ -88,8 +88,13 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
   * Verify that back button works after viewing in streetview
 * MRT Map page
   * Go to the "MRT Map" page
+  * Try to test if title description appears when a user hover mouse on image
+  * Try to test if clicking on the image brings the user to LTA's website
+  * Verify that image responds to different screen sizes
 * Weather page
   * Go to the "Weather" page
+  * Verify that table loads and is responsive to different screen sizes
+  * Verify that coloured text are readable for all colour schemes
   * Verify that weather forecast and PSI APIs loads and displays correctly
 * Contact page
   * Go to the "Contact" page
