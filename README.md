@@ -31,9 +31,17 @@ Mobile wireframe (Share URL):
 https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
 
 ### Screenshots of the finished project
+Share URL:
+https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/ElYduZMAfSVFp_5Sl-VHKzIBPzV5QIX_kHEISV7ODn0QdA?e=rpMlDf
 ## Features
 ### Existing Features
+* Light & Dark colour schemes
+* APIs
+  * Google Maps API
+  * Weather forecast API
+  * PSI API
 ### Features Left to Implement
+* Adding a search bar to Google Maps
 
 ## Technologies Used
 ## Testing
