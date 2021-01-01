@@ -19,36 +19,42 @@ Multiple pictures have also been used to help the website look more lively and a
 ### Wireframes (Adobe XD)
 Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
 
-Files:
+Files (Link):
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/EoPM_nyHpVBBuejccYE0zh8Bci5yJmzZnnhhk1SWHC2Baw?e=NFcFhc
 
-Desktop wireframe (Share URL):
+Desktop Wireframe (Link):
 https://xd.adobe.com/view/b778caf1-e360-4708-84a4-6d91350ca7e9-e22b/?fullscreen&hints=off
 
-Mobile wireframe (Share URL):
+Mobile Wireframe (Link):
 https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
 
 ### Screenshots of the finished project
-Share URL:
+Link:
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/ElYduZMAfSVFp_5Sl-VHKzIBPzV5QIX_kHEISV7ODn0QdA?e=rpMlDf
 ## Features
 ### Existing Features
 * Light & Dark colour schemes - Allows users to choose to their preference
+* MRT Map - Allows users to view MRT Map, with an option to direct them to LTA's website
+* Form - Allows users to contact me with regards to the website
 * APIs
   * Google Maps API - Allows users to interact with the map
   * Weather forecast API
   * PSI API
-* Form - Allows users to contact me with regards to the website
 ### Features Left to Implement
-* Add a search bar to Google Maps
+* Search bar to Google Maps - Allows users to search for their desired locations
 * Colour Schemes
-  * Merge dark and light HTML files by using JavaScript
-  * Dynamic colour schemes that changes based on the time
-  * More colour schemes
-* Add more useful APIs and pages
+  * Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
+  * Dynamic colour schemes that changes based on the time - Gives users a refreshed experience
+  * More colour schemes - Gives more customizability to users
+* More APIs - Makes the website more functional and inclusive
+* Frequently Asked Questions (FAQ) page - Addresses commonly asked questions by users
+* Animated visuals and elements - Helps to bring life to the website.
 ## Technologies Used
+* [HTML](https://www.w3.org/html/)
+  * The project requires HTML to display content.
+* [CSS](https://www.w3.org/Style/CSS/)
+  * The project uses CSS to improve the aesthetics of the website, and is also used to make it into a responsive website.
 ## Testing
-
 ## Credits
 ### Content
 (External source code)
