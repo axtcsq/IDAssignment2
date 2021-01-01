@@ -58,17 +58,22 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * All pages (Common elements)
   * Try to test if navigation bar resizes accordingly to different screen sizes
   * Try to test if all images loads, if it fails verify that alt text appears as a failsafe method
+  * Try to test if all text are properly displayed, then verify that it does.
+  * Try to test if all links are linked correctly and working, then verify that it is successful
+  * Try to test if all external CSS referenced have all loaded correct, then verify that it succeeds
 * Index / Colour Scheme page
-  * Text
+  * Go to the "index" or "Colour Scheme" page
 * Home page
+  * Go to the "Home" page
   * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
 * Google Maps page
-  * Text
+  * Go to the "Google Maps" page
 * MRT Map page
-  * Text
+  * Go to the "MRT Map" page
 * Weather page
-  * Text
+  * Go to the "Weather" page
 * Contact page
+  * Go to the "Contact" page
   * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
 ### Different Browsers and Screen Sizes
 ### Bugs and Problems
