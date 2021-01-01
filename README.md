@@ -38,8 +38,8 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * Form - Allows users to contact me with regards to the website
 * APIs
   * Google Maps API - Allows users to interact with the map
-  * Weather forecast API
-  * PSI API
+  * Weather forecast API - Allows users to check the weather forecast
+  * PSI API - Allows users to check the PSI values
 ### Features Left to Implement
 * Search bar to Google Maps - Allows users to search for their desired locations
 * Colour Schemes
@@ -48,12 +48,16 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
   * More colour schemes - Gives more customizability to users
 * More APIs - Makes the website more functional and inclusive
 * Frequently Asked Questions (FAQ) page - Addresses commonly asked questions by users
-* Animated visuals and elements - Helps to bring life to the website.
+* Animated visuals and elements - Helps to bring life to the website
 ## Technologies Used
-* [HTML](https://www.w3.org/html/)
-  * The project requires HTML to display content.
-* [CSS](https://www.w3.org/Style/CSS/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * The project requires and uses HTML to display content.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * The project uses CSS to improve the aesthetics of the website, and is also used to make it into a responsive website.
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * This project requires and uses JavaScript in order for APIs to work.
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+  * This project uses Bootstrap to cut down on development time and to improve the aesthetics of the website.
 ## Testing
 ## Credits
 ### Content
