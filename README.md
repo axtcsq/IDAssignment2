@@ -16,8 +16,6 @@ Fitting with current trends and standard, this website offers two colour schemes
 As you navigate through the different pages, you would notice that there is strong uniformity in its design language and layout. Thinking from the perspective of an average user, it would be easier and more comfortable to navigate since all pages shares most of the same layout. Doing so also helps to cut down on development time, as I could simply reuse the shell and modify accordingly to the page's requirements.
 ### Pictures
 Multiple pictures have also been used to help the website look more lively and aesthetically pleasing. A website with good aesthetics would convey a message to users that the developer has put in the effort to care for minor details during the development phase.
-### One cancelled idea
-One idea that was struck off was the ability for users to input their to-do-list into a list that would have been displayed in a table format. It was struck off as having too many pages seemed too clustered and would certainly prolong the development time as well.
 ### Wireframes (Adobe XD)
 Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
 
@@ -35,14 +33,19 @@ Share URL:
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/ElYduZMAfSVFp_5Sl-VHKzIBPzV5QIX_kHEISV7ODn0QdA?e=rpMlDf
 ## Features
 ### Existing Features
-* Light & Dark colour schemes
+* Light & Dark colour schemes - Allows users to choose to their preference
 * APIs
-  * Google Maps API
+  * Google Maps API - Allows users to interact with the map
   * Weather forecast API
   * PSI API
+* Form - Allows users to contact me with regards to the website
 ### Features Left to Implement
-* Adding a search bar to Google Maps
-
+* Add a search bar to Google Maps
+* Colour Schemes
+  * Merge dark and light HTML files by using JavaScript
+  * Dynamic colour schemes that changes based on the time
+  * More colour schemes
+* Add more useful APIs and pages
 ## Technologies Used
 ## Testing
 
