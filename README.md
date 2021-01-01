@@ -99,10 +99,10 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * Contact page
   * Go to the "Contact" page
   * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
-  * Try to test if different title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
+  * Try to test if different title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds
   * Try to test if clicking on phone or email would engage call or email function respectively
-  * Try to test if user is able to input text in textbox, select radio buttons, , then verify that it succeeds.
-  * Try to test if form validations are working, then verify that it succeeds.
+  * Try to test if user is able to input text in textbox, select radio buttons, select from multiple select, choose a file, then verify that it succeeds
+  * Verify that form validations are working
 ### Different Browsers and Screen Sizes
 ### Bugs and Problems
 ## Credits
