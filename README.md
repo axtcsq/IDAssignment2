@@ -248,5 +248,8 @@ Towner, John. (2016). Red highlands [Online image]. Unsplash.
 ### Acknowledgements
 I received inspiration for this project from:
 
-Google Maps: https://www.google.com/maps/
-National Environment Agency (NEA): https://www.nea.gov.sg/
+Google Maps
+https://www.google.com/maps/
+
+National Environment Agency (NEA)
+https://www.nea.gov.sg/
