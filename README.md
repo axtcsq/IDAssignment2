@@ -107,8 +107,16 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 * When displaying the website on different browsers, all seems to work well
 * When displaying the website on different screen sizes, all seems to work well till the screen size is at iPhone X and below. More will be shared under bugs section
 ### Bugs and Problems
+* When the screen size is set to iPhone X and below, the flexboxes will no longer be centralise
+* Empty black sections may appear in portrait orientation for screen sizes like an iPad
+* On GitHub pages
+  * Weather forecast and PSI APIs are not working
+  * Some images refuses to load, even though running on live server works perfectly
 ## Credits
+References can also be found in the attached Word document titled "References".
 ### Content
 (External source code)
 ### Media
+The photos used in this site were obtained from:
 ### Acknowledgements
+I received inspiration for this project from:
