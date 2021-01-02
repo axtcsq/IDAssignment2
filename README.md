@@ -115,8 +115,135 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
-(External source code)
+External source codes used in this site were obtained from:
+
+Bootstrap. (n.d.). Alerts (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/alerts/ 
+
+Bootstrap. (n.d.). Badges (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/badge/ 
+
+Bootstrap. (n.d.). Buttons (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/buttons/ 
+
+Bootstrap. (n.d.). Cards (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/card/ 
+
+Bootstrap. (n.d.). Carousel (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/carousel/
+
+Bootstrap. (n.d.). Checks and radios (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/forms/checks-radios/ 
+
+Bootstrap. (n.d.). Close button (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/close-button/ 
+
+Bootstrap. (n.d.). Collapse (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/collapse/ 
+
+Bootstrap. (n.d.). Columns (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/layout/columns/ 
+
+Bootstrap. (n.d.). Dropdowns (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/dropdowns/ 
+
+Bootstrap. (n.d.). Form controls (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/forms/form-control/ 
+
+Bootstrap. (n.d.). Forms (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/forms/overview/ 
+
+Bootstrap. (n.d.). Grid system (Version 5.0). Bootstrap. 
+  https://getbootstrap.com/docs/5.0/layout/grid/ 
+
+Bootstrap. (n.d.). Images (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/content/images/
+
+Bootstrap. (n.d.). Input group (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/forms/input-group/ 
+
+Bootstrap. (n.d.). Introduction (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+Bootstrap. (n.d.). Modal (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/modal/ 
+
+Bootstrap. (n.d.). Navbar (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/navbar/ 
+
+Bootstrap. (n.d.). Navs and tabs (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/components/navs-tabs/ 
+
+Bootstrap. (n.d.). Select (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/forms/select/ 
+
+Bootstrap. (n.d.). Tables (Version 5.0). Bootstrap. 
+	https://getbootstrap.com/docs/5.0/content/tables/ 
+
+Data.gov.sg. (2018). Pollutant Standards Index (PSI) (Version 1). Data.gov.sg.
+	https://data.gov.sg/dataset/psi
+
+Data.gov.sg. (2018). Weather Forecast (Version 1). Data.gov.sg.
+  https://data.gov.sg/dataset/weather-forecast?resource_id=9a8bd97e-0e38-46b7-bc39-9a2cb4a53a62 
+
+Google Maps Platform. (2020). Markers (Version 3.43.3). Google Maps Platform.
+  https://developers.google.com/maps/documentation/javascript/markers#maps_marker_simple-javascript 
+
+Google Maps Platform. (2020). Simple Map (Version 3.43.3). Google Maps Platform.
+	https://developers.google.com/maps/documentation/javascript/examples/map-simple#all 
+
+Google Maps Platform. (2020). Styled Maps - Night Mode (Version 3.43.3). Google Maps Platform.
+  https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript 
+
+National Environment Agency. (n.d.). AIR QUALITY. National Environment Agency. 
+	https://www.haze.gov.sg/
+
+Yam, Malcolm. (2020, Dec 7). Working w/ APIs [Lecture notes, Google Slides]. MeL. 
+  https://mel.np.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_46751_1&content_id=_3583784_1 
 ### Media
 The photos used in this site were obtained from:
+
+Chameleon, Green. (2015). Designer sketching Wireframes [Online image]. Unsplash. 
+	https://unsplash.com/photos/s9CC2SKySJM 
+
+Freepik. (n.d.). Chat free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/chat_2991633
+
+Freepik. (n.d.). Day And Night free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/day-and-night_1312343?term=day%20night&page=1&position=6&related_item_id=1312343
+
+Freepik. (n.d.). Google Maps free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/google-maps_2642502?term=google%20maps&page=1&position=8&related_item_id=2642502 
+
+Freepik. (n.d.). Internet free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/internet_1043707?term=internet&page=1&position=28&related_item_id=1043707
+
+Freepik. (n.d.). Message free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/message_3062634?term=email&page=1&position=41
+
+Freepik. (n.d.). Phone Call free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/phone-call_561253?term=call&page=1&position=43
+
+Freepik. (n.d.). Question free icon [Online image]. Flaticon. 
+  https://www.flaticon.com/free-icon/question_3867460?term=information&page=1&position=23&related_item_id=3867460 
+
+Hochgesang, Julian. (2020). Apple MacBook Pro 15" with black screen on a black desk 
+  [Online image]. Unsplash. 
+  https://unsplash.com/photos/psGV5KhidlY 
+
+Hongzhi, Zhu. (2018). City Boy [Online image]. Unsplash. 
+  https://unsplash.com/photos/tzFVsg6nWtM  
+
+Mrt Logo Png - Singapore Mrt Icon Vector [Online image]. (n.d.). NicePNG. 
+  https://www.nicepng.com/ourpic/u2e6q8i1e6o0o0e6_mrt-logo-png-singapore-mrt-icon-vector/
+
+NASA. (2015). photo of outer space photo [Online image]. Unsplash. 
+  https://unsplash.com/photos/Q1p7bh3SHj8 
+
+This is the rail life [Online image]. (n.d.). Land Transport Authority (LTA). 
+  https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html
+
+Towner, John. (2016). Red highlands [Online image]. Unsplash. 
+  https://unsplash.com/photos/JgOeRuGD_Y4 
 ### Acknowledgements
 I received inspiration for this project from:
