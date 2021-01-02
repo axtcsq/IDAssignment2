@@ -117,67 +117,67 @@ References can also be found in the attached Word document titled "References".
 ### Content
 External source codes used in this site were obtained from:
 
-Bootstrap. (n.d.). Alerts (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Alerts (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/alerts/ 
 
-Bootstrap. (n.d.). Badges (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Badges (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/badge/ 
 
-Bootstrap. (n.d.). Buttons (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Buttons (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/buttons/ 
 
-Bootstrap. (n.d.). Cards (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Cards (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/card/ 
 
-Bootstrap. (n.d.). Carousel (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Carousel (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/carousel/
 
-Bootstrap. (n.d.). Checks and radios (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Checks and radios (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/forms/checks-radios/ 
 
-Bootstrap. (n.d.). Close button (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Close button (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/close-button/ 
 
-Bootstrap. (n.d.). Collapse (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Collapse (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/collapse/ 
 
-Bootstrap. (n.d.). Columns (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Columns (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/layout/columns/ 
 
-Bootstrap. (n.d.). Dropdowns (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Dropdowns (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/dropdowns/ 
 
-Bootstrap. (n.d.). Form controls (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Form controls (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/forms/form-control/ 
 
-Bootstrap. (n.d.). Forms (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Forms (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/forms/overview/ 
 
-Bootstrap. (n.d.). Grid system (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Grid system (Version 5.0). Bootstrap. 
   https://getbootstrap.com/docs/5.0/layout/grid/ 
 
-Bootstrap. (n.d.). Images (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Images (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/content/images/
 
-Bootstrap. (n.d.). Input group (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Input group (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/forms/input-group/ 
 
-Bootstrap. (n.d.). Introduction (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Introduction (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-Bootstrap. (n.d.). Modal (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Modal (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/modal/ 
 
-Bootstrap. (n.d.). Navbar (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Navbar (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/navbar/ 
 
-Bootstrap. (n.d.). Navs and tabs (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Navs and tabs (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/components/navs-tabs/ 
 
-Bootstrap. (n.d.). Select (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Select (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/forms/select/ 
 
-Bootstrap. (n.d.). Tables (Version 5.0). Bootstrap. 
+Bootstrap. (2020). Tables (Version 5.0). Bootstrap. 
 	https://getbootstrap.com/docs/5.0/content/tables/ 
 
 Data.gov.sg. (2018). Pollutant Standards Index (PSI) (Version 1). Data.gov.sg.
@@ -195,7 +195,7 @@ Google Maps Platform. (2020). Simple Map (Version 3.43.3). Google Maps Platform.
 Google Maps Platform. (2020). Styled Maps - Night Mode (Version 3.43.3). Google Maps Platform.
   https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript 
 
-National Environment Agency. (n.d.). AIR QUALITY. National Environment Agency. 
+National Environment Agency. (2021). AIR QUALITY. National Environment Agency. 
 	https://www.haze.gov.sg/
 
 Yam, Malcolm. (2020, Dec 7). Working w/ APIs [Lecture notes, Google Slides]. MeL. 
@@ -240,7 +240,7 @@ Mrt Logo Png - Singapore Mrt Icon Vector [Online image]. (n.d.). NicePNG.
 NASA. (2015). photo of outer space photo [Online image]. Unsplash. 
   https://unsplash.com/photos/Q1p7bh3SHj8 
 
-This is the rail life [Online image]. (n.d.). Land Transport Authority (LTA). 
+This is the rail life [Online image]. (2020). Land Transport Authority (LTA). 
   https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html
 
 Towner, John. (2016). Red highlands [Online image]. Unsplash. 
@@ -248,8 +248,8 @@ Towner, John. (2016). Red highlands [Online image]. Unsplash.
 ### Acknowledgements
 I received inspiration for this project from:
 
-Google Maps
-https://www.google.com/maps/
+Google Maps. (2021). Google Maps. Google Maps.
+  https://www.google.com/maps/
 
-National Environment Agency (NEA)
-https://www.nea.gov.sg/
+National Environment Agency. (2021). National Environment Agency. National Environment Agency.
+	https://www.nea.gov.sg/ 
