@@ -1,3 +1,11 @@
+/* 
+Title: Working w/ APIs
+Author: Yam, Malcolm
+Date: 2020
+Code version: 1
+Availability: https://mel.np.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_46751_1&content_id=_3583784_1  
+*/
+
 $(document).ready(function() {
     // @params settings
     var params = {
