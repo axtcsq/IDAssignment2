@@ -1,3 +1,13 @@
+/* 
+Title: Simple Map, Markers
+Author: Google Maps Platform
+Date: 2020
+Code version: 3.43.3
+Availability: 
+https://developers.google.com/maps/documentation/javascript/examples/map-simple#all
+https://developers.google.com/maps/documentation/javascript/markers#maps_marker_simple-javascript 
+*/
+
 let map;
     
 function initMap() {
