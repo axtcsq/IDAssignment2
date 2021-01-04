@@ -10,7 +10,7 @@ html, body {
 .header {
   padding: 100px;
   text-align: center;
-  background-image: url(/images/background1.jpg);
+  background-image: url(../images/background1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -51,7 +51,7 @@ h1, .alert {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/school.jpg);
+    background-image: url(../images/school.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -78,7 +78,7 @@ h1, .alert {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/school.jpg);
+    background-image: url(../images/school.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
