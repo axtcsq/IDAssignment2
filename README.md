@@ -91,6 +91,13 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project uses Adobe XD to create wireframes for both desktop and mobile version
 * [PINETOOLS](https://pinetools.com/darken-image)
   * This project uses PINETOOLS to darken images
+### Documentations
+* [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/overview)
+  * This project was made possible with the help of Google Maps Platform's documentation
+* [w3schools](https://www.w3schools.com/)
+  * This project was made possible with the help of w3schools' documentation
+* [Working w/ APIs (Lecture notes)](https://mel.np.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_46751_1&content_id=_3583784_1)
+  * The project was made possible with the help of Working w/ APIs lecture notes
 ## Testing
 * All pages (Common elements)
   * Try to test if navigation bar resizes accordingly to different screen sizes
