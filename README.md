@@ -169,16 +169,22 @@ Should any user would like to clone this project for your own usage, do credit m
 * [Creating a new repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 * [Cloning a repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 * [Creating a GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
-* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 * [About READMEs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+### Setting up Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 ### Setting up APIs
 #### Google Maps API
 * [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
 * [Get an API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview)
 #### Data.gov.sg's APIs
-* https://data.gov.sg/developer
+* [Developer Guide](https://data.gov.sg/developer)
+* [Pollutant Standards Index (PSI)](https://data.gov.sg/dataset/psi)
+* [Weather Forecast](https://data.gov.sg/dataset/weather-forecast)
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
