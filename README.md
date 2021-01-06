@@ -49,7 +49,7 @@ Mobile Wireframe:
 https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
 
 ### Screenshots of the finished project
-Link:
+Screenshots:
 https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 ## Features
 ### Existing Features
