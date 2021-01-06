@@ -18,6 +18,7 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Website](https://github.com/axtcsq/IDAssignment2#website)
   * [Validators](https://github.com/axtcsq/IDAssignment2#validators)
   * [Other Softwares](https://github.com/axtcsq/IDAssignment2#other-softwares)
+  * [Documentations](https://github.com/axtcsq/IDAssignment2#documentations)
 * [Testing](https://github.com/axtcsq/IDAssignment2#testing)
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/IDAssignment2#different-browsers-and-screen-sizes)
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
