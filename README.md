@@ -158,6 +158,8 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Empty black sections may appear in portrait orientation for screen sizes like an iPad
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
+## Deployment
+Text
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
