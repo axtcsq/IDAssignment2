@@ -23,6 +23,10 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/IDAssignment2#different-browsers-and-screen-sizes)
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
 * [Deployment](https://github.com/axtcsq/IDAssignment2#deployment)
+  * [Setting up GitHub](https://github.com/axtcsq/IDAssignment2#setting-up-github)
+  * [Setting up APIs](https://github.com/axtcsq/IDAssignment2#setting-up-apis)
+    * [Google Maps API](https://github.com/axtcsq/IDAssignment2#google-maps-api)
+    * [Data.gov.sg's APIs](https://github.com/axtcsq/IDAssignment2#datagovsgs-apis)
 * [Credits](https://github.com/axtcsq/IDAssignment2#credits)
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
   * [Media](https://github.com/axtcsq/IDAssignment2#media)
@@ -160,9 +164,8 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
 ## Deployment
-Should any user would like to clone this project for your own usage, do credit me.
+Should any user would like to clone this project for your own usage, do credit me. Here are some helpful guides to get you started:
 ### Setting up GitHub
-Here are some helpful guides to get you started:
 * [Creating a new repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 * [Cloning a repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 * [Creating a GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
@@ -170,13 +173,12 @@ Here are some helpful guides to get you started:
 * [About READMEs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 ### Setting up APIs
-Here are some helpful guides to get you started:
 #### Google Maps API
 * [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
 * [Get an API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview)
 #### Data.gov.sg's APIs
-*https://data.gov.sg/developer
+* https://data.gov.sg/developer
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
