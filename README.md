@@ -129,6 +129,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 ### Bugs and Problems
 * When the screen size is set to iPhone X and below, the flexboxes will no longer be centralise
 * Empty black sections may appear in portrait orientation for screen sizes like an iPad
+* Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * On GitHub pages
   * Weather forecast and PSI APIs are not working
   * Some images refuses to load, even though running on live server works perfectly
