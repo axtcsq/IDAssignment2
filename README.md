@@ -160,14 +160,23 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
 ## Deployment
-### Downloading the files
-Should any user would like to clone this project for your own usage, do credit me and [create a GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). After creating, click on the green button that has "Code" written on it, and click on "Download ZIP". 
->✅ Congrats, you have downloaded the files successfully.
-### Opening the files
-Great, now that you have downloaded the files, open it in [Visual Studio Code](https://code.visualstudio.com/). 
->⚠ Inexperienced Users: Avoid modifiying css and scripts folder or any coloured-texts/tags. To modify the content to your liking, simply just change any white-coloured text.
-
->Experienced Users: Feel free to modify to your liking.
+Should any user would like to clone this project for your own usage, do credit me.
+### Setting up GitHub
+Here are some helpful guides to get you started:
+* [Creating a new repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
+* [Cloning a repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+* [Creating a GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
+* [About READMEs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+### Setting up APIs
+Here are some helpful guides to get you started:
+#### Google Maps API
+* [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
+* [Get an API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+* [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview)
+#### Data.gov.sg's APIs
+*https://data.gov.sg/developer
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
