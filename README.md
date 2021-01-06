@@ -50,7 +50,7 @@ https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&
 
 ### Screenshots of the finished project
 Link:
-https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/ElYduZMAfSVFp_5Sl-VHKzIBPzV5QIX_kHEISV7ODn0QdA?e=rpMlDf
+https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 ## Features
 ### Existing Features
 * Light & Dark colour schemes - Allows users to choose to their preference
