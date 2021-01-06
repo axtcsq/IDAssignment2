@@ -61,7 +61,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * Weather forecast API - Allows users to check the weather forecast
   * PSI API - Allows users to check the PSI values
 ### Features Left to Implement
-* Search bar to Google Maps - Allows users to search for their desired locations
+* Implement search bar for Google Maps - Allows users to search for their desired locations
 * Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
 * More APIs - Makes the website more functional and inclusive
 * Animated visuals and elements - Helps to bring life to the website
