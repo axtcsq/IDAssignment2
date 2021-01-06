@@ -71,6 +71,8 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * The project uses CSS to improve the aesthetics of the website, and is also used to make it into a responsive website.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   * This project requires and uses JavaScript in order for APIs to work.
+* [jQuery](https://developer.mozilla.org/en-US/docs/Glossary/jQuery)
+  * This project requires and uses jQuery in order for APIs to work.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
 ## Testing
