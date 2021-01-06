@@ -4,7 +4,6 @@ The user audience for this website is catered to users who wants convenience whi
 The most appreciated value would likely be the time-saving factor, since the website has conveniently consolidated all the information, it allows the user to spend the extra free time to do other things. For users who have a preference for colour schemes, the website also caters to users by offering both light and dark mode.
 ## Table of Contents
 * [Assignment 2](https://github.com/axtcsq/IDAssignment2#assignment-2)
-
 * [Design Process](https://github.com/axtcsq/IDAssignment2#design-process)
   * [User Stories](https://github.com/axtcsq/IDAssignment2#user-stories)
   * [Colour Schemes](https://github.com/axtcsq/IDAssignment2#colour-schemes)
@@ -12,20 +11,16 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Pictures](https://github.com/axtcsq/IDAssignment2#pictures)
   * [Wireframes (Adobe XD)](https://github.com/axtcsq/IDAssignment2#wireframes-adobe-xd)
   * [Screenshots of the finished project](https://github.com/axtcsq/IDAssignment2#screenshots-of-the-finished-project)
-
 * [Features](https://github.com/axtcsq/IDAssignment2#features)
   * [Existing Features](https://github.com/axtcsq/IDAssignment2#existing-features)
   * [Features Left to Implement](https://github.com/axtcsq/IDAssignment2#features-left-to-implement)
-
 * [Technologies Used](https://github.com/axtcsq/IDAssignment2#technologies-used)
   * [Website](https://github.com/axtcsq/IDAssignment2#website)
   * [Validators](https://github.com/axtcsq/IDAssignment2#validators)
   * [Other Softwares](https://github.com/axtcsq/IDAssignment2#other-softwares)
-
 * [Testing](https://github.com/axtcsq/IDAssignment2#testing)
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/IDAssignment2#different-browsers-and-screen-sizes)
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
-
 * [Credits](https://github.com/axtcsq/IDAssignment2#credits)
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
   * [Media](https://github.com/axtcsq/IDAssignment2#media)
