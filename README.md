@@ -26,7 +26,7 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Setting up GitHub](https://github.com/axtcsq/IDAssignment2#setting-up-github)
   * [Setting up Visual Studio Code](https://github.com/axtcsq/IDAssignment2#setting-up-visual-studio-code)
   * [Setting up APIs](https://github.com/axtcsq/IDAssignment2#setting-up-apis)
-    * [Google Maps's API](https://github.com/axtcsq/IDAssignment2#google-maps-api)
+    * [Google Maps's API](https://github.com/axtcsq/IDAssignment2#google-mapss-api)
     * [Data.gov.sg's APIs](https://github.com/axtcsq/IDAssignment2#datagovsgs-apis)
 * [Credits](https://github.com/axtcsq/IDAssignment2#credits)
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
