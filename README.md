@@ -87,6 +87,8 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project uses CSS Validator to check for errors
 * [JavaScript Validator](https://codebeautify.org/jsvalidate)
   * This project uses JavaScript Validator to check for errors
+* [Alt Tag Checker](https://rushax.com/tools/alt-tag-checker/)
+  * This project uses Alt Tag Checker to check for any missing Alt tags
 ### Other Softwares
 * [Adobe XD](https://www.adobe.com/sea/products/xd.html)
   * This project uses Adobe XD to create wireframes for both desktop and mobile version
