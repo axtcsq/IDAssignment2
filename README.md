@@ -22,6 +22,7 @@ The most appreciated value would likely be the time-saving factor, since the web
 * [Testing](https://github.com/axtcsq/IDAssignment2#testing)
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/IDAssignment2#different-browsers-and-screen-sizes)
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
+* [Deployment](https://github.com/axtcsq/IDAssignment2#deployment)
 * [Credits](https://github.com/axtcsq/IDAssignment2#credits)
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
   * [Media](https://github.com/axtcsq/IDAssignment2#media)
@@ -159,8 +160,16 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
 ## Deployment
-Should any user with no experience would like to clone this project for your own usage, the first thing to do is to first create a GitHub account. After creating a GitHub account, come back to this [link](https://github.com/axtcsq/IDAssignment2). Click on the green button that has "Code" written on it, and click on "Download ZIP". 
->Congrats, you have downloaded the files successfully.
+>⚠ Do give credits if you use any of my files
+### Downloading the files
+Should any user would like to clone this project for your own usage, [create a GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) first. 
+
+After creating, click on the green button that has "Code" written on it, and click on "Download ZIP". 
+>✅ Congrats, you have downloaded the files successfully.
+### Opening the files
+Great, now that you have downloaded the files, open it in [Visual Studio Code](https://code.visualstudio.com/). 
+>⚠ Inexperienced Users: Avoid modifiying css and scripts folder or any coloured-texts/tags. To modify the content to your liking, simply just change any white-coloured text.
+>Experienced Users: Feel free to modify to your liking.
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Content
