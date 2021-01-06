@@ -26,7 +26,7 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Setting up GitHub](https://github.com/axtcsq/IDAssignment2#setting-up-github)
   * [Setting up Visual Studio Code](https://github.com/axtcsq/IDAssignment2#setting-up-visual-studio-code)
   * [Setting up APIs](https://github.com/axtcsq/IDAssignment2#setting-up-apis)
-    * [Google Maps API](https://github.com/axtcsq/IDAssignment2#google-maps-api)
+    * [Google Maps's API](https://github.com/axtcsq/IDAssignment2#google-maps-api)
     * [Data.gov.sg's APIs](https://github.com/axtcsq/IDAssignment2#datagovsgs-apis)
 * [Credits](https://github.com/axtcsq/IDAssignment2#credits)
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
@@ -177,7 +177,7 @@ Should any user would like to clone this project for your own usage, do credit m
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 ### Setting up APIs
-#### Google Maps API
+#### Google Maps's API
 * [Getting started with Google Maps Platform](https://developers.google.com/maps/gmp-get-started)
 * [Get an API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview)
