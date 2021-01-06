@@ -64,7 +64,6 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Implement search bar for Google Maps - Allows users to search for their desired locations
 * Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
 * More APIs - Makes the website more functional and inclusive
-* Animated visuals and elements - Helps to bring life to the website
 ## Technologies Used
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * The project requires and uses HTML to display content.
