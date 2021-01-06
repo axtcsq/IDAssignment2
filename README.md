@@ -160,15 +160,13 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
 ## Deployment
->⚠ Do give credits if you use any of my files
 ### Downloading the files
-Should any user would like to clone this project for your own usage, [create a GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) first. 
-
-After creating, click on the green button that has "Code" written on it, and click on "Download ZIP". 
+Should any user would like to clone this project for your own usage, do credit me and [create a GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). After creating, click on the green button that has "Code" written on it, and click on "Download ZIP". 
 >✅ Congrats, you have downloaded the files successfully.
 ### Opening the files
 Great, now that you have downloaded the files, open it in [Visual Studio Code](https://code.visualstudio.com/). 
 >⚠ Inexperienced Users: Avoid modifiying css and scripts folder or any coloured-texts/tags. To modify the content to your liking, simply just change any white-coloured text.
+
 >Experienced Users: Feel free to modify to your liking.
 ## Credits
 References can also be found in the attached Word document titled "References".
