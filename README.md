@@ -24,6 +24,7 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
 * [Deployment](https://github.com/axtcsq/IDAssignment2#deployment)
   * [Setting up GitHub](https://github.com/axtcsq/IDAssignment2#setting-up-github)
+  * [Setting up Visual Studio Code](https://github.com/axtcsq/IDAssignment2#setting-up-visual-studio-code)
   * [Setting up APIs](https://github.com/axtcsq/IDAssignment2#setting-up-apis)
     * [Google Maps API](https://github.com/axtcsq/IDAssignment2#google-maps-api)
     * [Data.gov.sg's APIs](https://github.com/axtcsq/IDAssignment2#datagovsgs-apis)
@@ -56,7 +57,6 @@ https://xd.adobe.com/view/b778caf1-e360-4708-84a4-6d91350ca7e9-e22b/?fullscreen&
 
 Mobile Wireframe:
 https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
-
 ### Screenshots of the finished project
 Screenshots:
 https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
