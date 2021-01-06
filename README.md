@@ -65,6 +65,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Merge dark and light HTML files by using JavaScript - Reduces development time and cleans up codes
 * More APIs - Makes the website more functional and inclusive
 ## Technologies Used
+### Website
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * The project requires and uses HTML to display content.
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -75,6 +76,18 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project requires and uses jQuery in order for APIs to work.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
+### Validators
+* [HTML Validator](https://validator.w3.org/)
+  * This project uses HTML Validator to check for errors
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+  * This project uses CSS Validator to check for errors
+* [JavaScript Validator](https://codebeautify.org/jsvalidate)
+  * This project uses JavaScript Validator to check for errors
+### Other Softwares
+* [Adobe XD](https://www.adobe.com/sea/products/xd.html)
+  * This project uses Adobe XD to create wireframes for both desktop and mobile version
+* [PINETOOLS](https://pinetools.com/darken-image)
+  * This project uses PINETOOLS to darken images
 ## Testing
 * All pages (Common elements)
   * Try to test if navigation bar resizes accordingly to different screen sizes
