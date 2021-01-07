@@ -10,7 +10,7 @@ $(document).ready(function() {
     // @params settings
     var params = {
         // YYYY-MM-DD[T]HH:mm:ss (SGT)
-        "date_time": "2021-01-06T00:00:00", "date": "2021-01-06" // YYYY-MM-DD
+        "date_time": "2021-01-07T00:00:00", "date": "2021-01-07" // YYYY-MM-DD
     };
     
     $.ajax({
@@ -19,7 +19,7 @@ $(document).ready(function() {
         contentType: "text/plain",
         url: "https://api.data.gov.sg/v1/environment/psi",
         headers: {},
-        data: {"date_time": "2021-01-06T00:00:00", "date":"2021-01-06"},
+        data: {"date_time": "2021-01-07T00:00:00", "date":"2021-01-07"},
 
         // crossDomain: true,
         // @data returning JSON data
