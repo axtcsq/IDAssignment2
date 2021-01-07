@@ -58,7 +58,7 @@ https://xd.adobe.com/view/b778caf1-e360-4708-84a4-6d91350ca7e9-e22b/?fullscreen&
 Mobile Wireframe:
 https://xd.adobe.com/view/5ef3555b-977a-40e5-b780-9e5a8c4cd491-0ba0/?fullscreen&hints=off
 ### Screenshots of the finished project
-Screenshots:
+Files:
 https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 ## Features
 ### Existing Features
