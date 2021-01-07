@@ -50,7 +50,7 @@ Multiple pictures have also been used to help the website look more lively and a
 Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
 
 Files:
-https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/EoPM_nyHpVBBuejccYE0zh8Bci5yJmzZnnhhk1SWHC2Baw?e=NFcFhc
+https://github.com/axtcsq/IDAssignment2/tree/main/wireframes
 
 Desktop Wireframe:
 https://xd.adobe.com/view/b778caf1-e360-4708-84a4-6d91350ca7e9-e22b/?fullscreen&hints=off
