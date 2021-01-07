@@ -90,7 +90,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project uses HTML Validator to check for errors
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
   * This project uses CSS Validator to check for errors
-* [JavaScript Validator](https://codebeautify.org/jsvalidate)
+* [JavaScript Validator](https://jshint.com/)
   * This project uses JavaScript Validator to check for errors
 * [Alt Tag Checker](https://rushax.com/tools/alt-tag-checker/)
   * This project uses Alt Tag Checker to check for any missing Alt tags
