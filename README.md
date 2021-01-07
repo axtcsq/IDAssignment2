@@ -10,7 +10,7 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Uniformity and Simplicity](https://github.com/axtcsq/IDAssignment2#uniformity-and-simplicity)
   * [Pictures](https://github.com/axtcsq/IDAssignment2#pictures)
   * [Wireframes (Adobe XD)](https://github.com/axtcsq/IDAssignment2#wireframes-adobe-xd)
-  * [Screenshots of the finished project](https://github.com/axtcsq/IDAssignment2#screenshots-of-the-finished-project)
+  * [Screenshots](https://github.com/axtcsq/IDAssignment2#screenshots)
 * [Features](https://github.com/axtcsq/IDAssignment2#features)
   * [Existing Features](https://github.com/axtcsq/IDAssignment2#existing-features)
   * [Features Left to Implement](https://github.com/axtcsq/IDAssignment2#features-left-to-implement)
