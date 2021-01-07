@@ -1,0 +1,96 @@
+/* Makes pages fill entire window; black background colour */
+html, body {
+  background-color: #000000;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+.header {
+  padding: 100px;
+  text-align: center;
+  background-image: url(../images/background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  width: auto;
+  }
+
+/* Modal Box & Card-card body */
+.modal-content, .card, .card-body
+{
+  color: white;
+  background-color: #212529;
+}
+
+/* mb-3 & modal-content */
+.mb-3, .modal-content {
+  text-align: left;
+}
+
+/* h1 & Alert */
+h1, .alert {
+  text-align: center;
+}
+
+/* Sets the map height explicitly to define the size of the div element 
+   that contains the map. */
+#map {
+  height: 100%;
+}
+
+/* Flexboxes and media queries */
+/* Small screen */
+@media only screen and (max-width:600px){
+  ul {list-style: none;}
+
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/school.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .flex-container > li {
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+  }
+}
+  
+/* Big screen */
+@media only screen and (min-width:601px){
+  ul {list-style: none;}
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/school.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .flex-container > li {
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 800px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+  }
+}
