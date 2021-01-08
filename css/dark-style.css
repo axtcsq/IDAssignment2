@@ -1,11 +1,3 @@
-/* Makes pages fill entire window; black background colour */
-html, body {
-  background-color: #000000;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 /* Header */
 .header {
   padding: 100px;
@@ -15,9 +7,9 @@ html, body {
   background-size: cover;
   color: white;
   width: auto;
-  }
+}
 
-/* Modal Box & Card-card body */
+/* Modal Box & Card */
 .modal-content, .card, .card-body
 {
   color: white;
@@ -34,8 +26,25 @@ h1, .alert {
   text-align: center;
 }
 
-/* Sets the map height explicitly to define the size of the div element 
-   that contains the map. */
+/* 
+Title: Simple Map, Markers, Styled Maps
+Author: Google Maps Platform
+Date: 2020
+Code version: 3.43.3
+Availability: 
+https://developers.google.com/maps/documentation/javascript/examples/map-simple#all
+https://developers.google.com/maps/documentation/javascript/markers#maps_marker_simple-javascript 
+https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript 
+*/
+/* Makes pages fill entire window; black background colour */
+html, body {
+  background-color: #000000;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Sets the map height explicitly to define the size of the div element that contains the map. */
 #map {
   height: 100%;
 }
