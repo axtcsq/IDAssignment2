@@ -159,11 +159,12 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * When displaying the website on different browsers, all seems to work well
 * When displaying the website on different screen sizes, all seems to work well till the screen size is at iPhone X and below. More will be shared under bugs section
 ### Bugs and Problems
-* When the screen size is set to iPhone X and below, the flexboxes will no longer be centralise
+* Some flexboxes are not centralise
 * Empty black sections may appear in portrait orientation for screen sizes like an iPad
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
 * Modal box's "X" close button in light and dark home pages are not positioned correctly
+* Adding figure tag to the area with "Logo & Brand" commentation creates a weird spacing in mobile view; have decided to not include figure tag for that area
 ## Deployment
 Should any user would like to clone this project for your own usage, do credit me. Here are some helpful guides to get you started:
 ### Setting up GitHub
