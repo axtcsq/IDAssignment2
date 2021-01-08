@@ -165,9 +165,9 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * JavaScript and jQuery code passes through the validator with issues
 * Modal box's "X" close button in light and dark home pages are not positioned correctly
 * Semantics
-  * Adding a figure tag to the area with "Logo & Brand" commentation for all pages would creates a weird spacing in mobile view
+  * Adding a figure tag to the area with "Logo & Brand" commentation for all pages creates excessive spacing in the navigation bar when viewed in mobile version
     * I have decided to not include a figure tag for that area
-  * Adding any semantics tag to the area with "Calls Google Map" commentation for both light and dark mode pages would cause Google Maps API to fail to load
+  * Adding any semantics tag to the area with "Calls Google Map" commentation for both light-googlemaps and dark-googlemaps pages would cause Google Maps API to fail to load
     * I have decided to not include any semantics tag for that area
 ## Deployment
 Should any user would like to clone this project for your own usage, do credit me. Here are some helpful guides to get you started:
