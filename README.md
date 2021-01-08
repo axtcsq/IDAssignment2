@@ -167,7 +167,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Semantics
   * Adding figure tag to the area with "Logo & Brand" commentation for all pages would creates a weird spacing in mobile view
     * I have decided to not include the figure tag for that area
-  * Adding any semantics tag to the area with "Calls Google Map" commentation for both light and dark mode pages would fail to load
+  * Adding any semantics tag to the area with "Calls Google Map" commentation for both light and dark mode pages would cause Google Maps API to fail to load
     * I have decided to not include any semantics tag for that area
 ## Deployment
 Should any user would like to clone this project for your own usage, do credit me. Here are some helpful guides to get you started:
