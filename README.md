@@ -163,7 +163,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
 * Empty black sections may appear in portrait orientation for screen sizes like an iPad
 * Yellow text of "101 - 200" and "Unhealthy" in weather page with light mode, may be difficult to read
 * JavaScript and jQuery code passes through the validator with issues
-* Modal box's "X" close button in dark and light home pages are not positioned correctly
+* Modal box's "X" close button in light and dark home pages are not positioned correctly
 ## Deployment
 Should any user would like to clone this project for your own usage, do credit me. Here are some helpful guides to get you started:
 ### Setting up GitHub
