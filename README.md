@@ -16,9 +16,9 @@ The most appreciated value would likely be the time-saving factor, since the web
   * [Features Left to Implement](https://github.com/axtcsq/IDAssignment2#features-left-to-implement)
 * [Technologies Used](https://github.com/axtcsq/IDAssignment2#technologies-used)
   * [Website](https://github.com/axtcsq/IDAssignment2#website)
-  * [Validators](https://github.com/axtcsq/IDAssignment2#validators)
-  * [Other Softwares](https://github.com/axtcsq/IDAssignment2#other-softwares)
-  * [Documentation](https://github.com/axtcsq/IDAssignment2#documentation)
+  * [Code Validation Service](https://github.com/axtcsq/IDAssignment2#validators)
+  * [Other Software](https://github.com/axtcsq/IDAssignment2#other-softwares)
+  * [Online Documentation](https://github.com/axtcsq/IDAssignment2#documentation)
 * [Testing](https://github.com/axtcsq/IDAssignment2#testing)
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/IDAssignment2#different-browsers-and-screen-sizes)
   * [Bugs and Problems](https://github.com/axtcsq/IDAssignment2#bugs-and-problems)
@@ -85,7 +85,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project requires and uses jQuery in order for APIs to work.
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
-### Validators
+### Code Validation Service
 * [HTML Validator](https://validator.w3.org/)
   * This project makes use of HTML Validator to check for errors
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -96,12 +96,12 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project makes use of Alt Tag Checker to check for any missing Alt tags
 * [Typosaur](https://typosaur.us/)
   * This project makes use of Typosaur to check for any spelling errors
-### Other Softwares
+### Other Software
 * [Adobe XD](https://www.adobe.com/sea/products/xd.html)
   * This project uses Adobe XD to create wireframes for both desktop and mobile version
 * [PINETOOLS](https://pinetools.com/darken-image)
   * This project uses PINETOOLS to darken images
-### Documentation
+### Online Documentation
 * [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/overview)
   * This project was made possible with the help of Google Maps Platform's documentation
 * [w3schools](https://www.w3schools.com/)
