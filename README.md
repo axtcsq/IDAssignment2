@@ -7,6 +7,7 @@ The most appreciated value would likely be the time-saving factor, since the web
 * [GitHub](https://github.com/axtcsq/IDAssignment2#github)
   * [GitHub Repository](https://github.com/axtcsq/IDAssignment2#github-repository)
   * [GitHub Pages](https://github.com/axtcsq/IDAssignment2#github-pages)
+  * [Demo Recording](https://github.com/axtcsq/IDAssignment2#demo-recording)
 * [Design Process](https://github.com/axtcsq/IDAssignment2#design-process)
   * [User Stories](https://github.com/axtcsq/IDAssignment2#user-stories)
   * [Colour Schemes](https://github.com/axtcsq/IDAssignment2#colour-schemes)
@@ -41,7 +42,7 @@ Link: https://github.com/axtcsq/IDAssignment2
 ### GitHub Pages
 Link: https://axtcsq.github.io/IDAssignment2/
 ### Demo Recording
-Link: https://connectnpedu-my.sharepoint.com/:v:/g/personal/s10194188_connect_np_edu_sg/EbPaxn9CatVEhgfFVCrN9pQBN77AdPBbJD8JDV1VAsBdUQ?e=sJC8SD
+Link: https://connectnpedu-my.sharepoint.com/:v:/g/personal/s10194188_connect_np_edu_sg/EbPaxn9CatVEhgfFVCrN9pQBN77AdPBbJD8JDV1VAsBdUQ?e=rFfb0M
 ## Design Process
 As mentioned previously, this website is catered to users who would like to save time and have convenience when searching for information on the internet. 
 
