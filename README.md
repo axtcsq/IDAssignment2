@@ -42,7 +42,7 @@ Link: https://github.com/axtcsq/IDAssignment2
 ### GitHub Pages
 Link: https://axtcsq.github.io/IDAssignment2/
 ### Demo Recording
-Link: https://connectnpedu-my.sharepoint.com/:v:/g/personal/s10194188_connect_np_edu_sg/EWjDUHsK3idKn9cFnLymo0MBBfP5DQTpU0IZgJnJvBGWTA?e=eJArXB
+Link: https://connectnpedu-my.sharepoint.com/:v:/g/personal/s10194188_connect_np_edu_sg/EWjDUHsK3idKn9cFnLymo0MBBfP5DQTpU0IZgJnJvBGWTA
 ## Design Process
 As mentioned previously, this website is catered to users who would like to save time and have convenience when searching for information on the internet. 
 
