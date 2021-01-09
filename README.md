@@ -2,11 +2,6 @@
 The user audience for this website is catered to users who wants convenience while using the internet to search for information. Since searching for different information on different websites takes time and effort, the purpose of this website is to give users convenience and be a time-saver by allowing users to check the weather forecast, PSI values, MRT Map and explore Google Maps all in one website.
 
 The most appreciated value would likely be the time-saving factor, since the website has conveniently consolidated all the information, it allows the user to spend the extra free time to do other things. For users who have a preference for colour schemes, the website also caters to users by offering both light and dark mode.
-## GitHub
-### GitHub Repository
-Link: https://github.com/axtcsq/IDAssignment2
-### GitHub Pages
-Link: https://axtcsq.github.io/IDAssignment2/
 ## Table of Contents
 * [Assignment 2](https://github.com/axtcsq/IDAssignment2#assignment-2)
 * [Design Process](https://github.com/axtcsq/IDAssignment2#design-process)
@@ -37,6 +32,11 @@ Link: https://axtcsq.github.io/IDAssignment2/
   * [Content](https://github.com/axtcsq/IDAssignment2#content)
   * [Media](https://github.com/axtcsq/IDAssignment2#media)
   * [Acknowledgements](https://github.com/axtcsq/IDAssignment2#acknowledgements)
+## GitHub
+### GitHub Repository
+Link: https://github.com/axtcsq/IDAssignment2
+### GitHub Pages
+Link: https://axtcsq.github.io/IDAssignment2/
 ## Design Process
 As mentioned previously, this website is catered to users who would like to save time and have convenience when searching for information on the internet. 
 
