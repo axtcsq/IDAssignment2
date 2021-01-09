@@ -4,6 +4,9 @@ The user audience for this website is catered to users who wants convenience whi
 The most appreciated value would likely be the time-saving factor, since the website has conveniently consolidated all the information, it allows the user to spend the extra free time to do other things. For users who have a preference for colour schemes, the website also caters to users by offering both light and dark mode.
 ## Table of Contents
 * [Assignment 2](https://github.com/axtcsq/IDAssignment2#assignment-2)
+* [GitHub](https://github.com/axtcsq/IDAssignment2#github)
+  * [GitHub Repository](https://github.com/axtcsq/IDAssignment2#github-repository)
+  * [GitHub Pages](https://github.com/axtcsq/IDAssignment2#github-pages)
 * [Design Process](https://github.com/axtcsq/IDAssignment2#design-process)
   * [User Stories](https://github.com/axtcsq/IDAssignment2#user-stories)
   * [Colour Schemes](https://github.com/axtcsq/IDAssignment2#colour-schemes)
