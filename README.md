@@ -101,7 +101,7 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project uses Adobe XD to create wireframes for both desktop and mobile version
 * [PINETOOLS](https://pinetools.com/darken-image)
   * This project uses PINETOOLS to darken images
-### Documentations
+### Documentation
 * [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/overview)
   * This project was made possible with the help of Google Maps Platform's documentation
 * [w3schools](https://www.w3schools.com/)
