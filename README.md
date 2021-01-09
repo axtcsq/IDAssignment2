@@ -40,6 +40,8 @@ The most appreciated value would likely be the time-saving factor, since the web
 Link: https://github.com/axtcsq/IDAssignment2
 ### GitHub Pages
 Link: https://axtcsq.github.io/IDAssignment2/
+### Demo Recording
+Link: https://connectnpedu-my.sharepoint.com/:v:/g/personal/s10194188_connect_np_edu_sg/EbPaxn9CatVEhgfFVCrN9pQBN77AdPBbJD8JDV1VAsBdUQ?e=sJC8SD
 ## Design Process
 As mentioned previously, this website is catered to users who would like to save time and have convenience when searching for information on the internet. 
 
