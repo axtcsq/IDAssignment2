@@ -87,13 +87,15 @@ https://github.com/axtcsq/IDAssignment2/tree/main/screenshots
   * This project uses Bootstrap to improve the aesthetics of the website, make the website responsive and to cut down on development time.
 ### Validators
 * [HTML Validator](https://validator.w3.org/)
-  * This project uses HTML Validator to check for errors
+  * This project makes use of HTML Validator to check for errors
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
-  * This project uses CSS Validator to check for errors
+  * This project makes use of CSS Validator to check for errors
 * [JavaScript Validator](https://jshint.com/)
-  * This project uses JavaScript Validator to check for errors
+  * This project makes use of JavaScript Validator to check for errors
 * [Alt Tag Checker](https://rushax.com/tools/alt-tag-checker/)
-  * This project uses Alt Tag Checker to check for any missing Alt tags
+  * This project makes use of Alt Tag Checker to check for any missing Alt tags
+* [Typosaur](https://typosaur.us/)
+  * This project makes use of Typosaur to check for any spelling errors
 ### Other Softwares
 * [Adobe XD](https://www.adobe.com/sea/products/xd.html)
   * This project uses Adobe XD to create wireframes for both desktop and mobile version
